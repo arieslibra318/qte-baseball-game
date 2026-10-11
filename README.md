@@ -1,6 +1,6 @@
 # ⚾《逆轉九局：魂之交鋒》8-Bit 像素棒球節奏 QTE 遊戲
 
-> 國立臺中科技大學 商業智慧與多媒體互動課堂實作專案  
+> 國立臺中科技大學 TAICA生成式AI作業
 > 線上暢玩網址：[https://arieslibra318.github.io/qte-baseball-game/](https://arieslibra318.github.io/qte-baseball-game/)
 
 ---
